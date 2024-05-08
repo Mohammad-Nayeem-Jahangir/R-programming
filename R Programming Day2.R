@@ -22,8 +22,7 @@ tail(plants) #Bottom 6 rows will show up
 
 summary(plants) #Will summarize the data set
 
-#View(plants) 
-#To view the dataset
+View(plants) #To view the dataset
 
 #LOADING A DATA FILE (CARS)
 
